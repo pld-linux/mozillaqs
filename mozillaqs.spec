@@ -8,7 +8,7 @@ Group:		Applications/Communications
 Source0:	http://dl.sourceforge.net/mozillaqs/%{name}-%{version}.tar.gz
 # Source0-md5:	772386be5dde0e095f919318eb5178a1
 URL:		http://mozillaqs.sourceforge.net/
-BuildRequires:  kdelibs-devel >= 3.1
+BuildRequires:	kdelibs-devel >= 3.1
 BuildRequires:	qt-devel >= 3.1
 Requires:	mozilla >= 1.4
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
