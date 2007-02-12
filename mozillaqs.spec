@@ -1,5 +1,5 @@
 Summary:	A KDE panel applet for quick access to Mozilla
-Summary(pl):	Aplet panelu KDE do szybkiego dostêpu do Mozilli
+Summary(pl.UTF-8):   Aplet panelu KDE do szybkiego dostÄ™pu do Mozilli
 Name:		mozillaqs
 Version:	0.6
 Release:	1
@@ -18,10 +18,10 @@ Mozilla Quickstarter is an small KDE utility that runs in the
 SystemTray and runs a hidden instance of Mozilla. You can execute
 navigator or mail program from Mozilla Quickstarter.
 
-%description -l pl
-Mozilla Quickstarter to niewielka, dzia³aj±ca w zasobniku systemowym
-aplikacja KDE. Uruchamia ona ukryt± instancjê Mozilli. Mo¿liwe jest
-uruchomienie przegl±darki lub programu pocztowego z poziomu Mozilla
+%description -l pl.UTF-8
+Mozilla Quickstarter to niewielka, dziaÅ‚ajÄ…ca w zasobniku systemowym
+aplikacja KDE. Uruchamia ona ukrytÄ… instancjÄ™ Mozilli. MoÅ¼liwe jest
+uruchomienie przeglÄ…darki lub programu pocztowego z poziomu Mozilla
 QuickStarter.
 
 %prep
