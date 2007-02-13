@@ -1,5 +1,5 @@
 Summary:	A KDE panel applet for quick access to Mozilla
-Summary(pl.UTF-8):   Aplet panelu KDE do szybkiego dostępu do Mozilli
+Summary(pl.UTF-8):	Aplet panelu KDE do szybkiego dostępu do Mozilli
 Name:		mozillaqs
 Version:	0.6
 Release:	1
